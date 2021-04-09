@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/cmlasa/mangowasiwas/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQtaNGXO00h6VxrDAnz4dKovghAKMHrdB-BdF7E5t6oXt6BQwgTQ1gaAdNQaWI286RxTgyjyBoniwiw/pub?embedded=true"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
