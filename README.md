@@ -7,7 +7,7 @@
 #### _“...[the] dessert was based on a cutout recipe, called mango wasiwas<sup>2</sup>, that his mother kept. It was a flambé with mango, much like mango jubilee served with ice cream and barquillos...”_
 
 
-# Ingredients
+## Ingredients
 
 Servings: 1-2
 
@@ -34,7 +34,7 @@ _OR_
 * 2 tbsp		butter
 
 
-# Instructions<sup>3</sup>
+## Instructions<sup>3</sup>
 
 If using _suman_ instead of barquillos:
 
@@ -59,7 +59,7 @@ _Wasiwas_ Instructions:
 9. Spoon the _wasiwas_ over the barquillos/fried suman. Top with the ice cream and drizzle with any remaining _wasiwas_ sauce in the pan.
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### Notes
 
 1: Source: [Only mention of “mango wasiwas” on the Internet (Philippine Star, 2017)](https://www.philstar.com/lifestyle/health-and-family/2017/03/07/1677186/whats-cooking-chef-fern-aracama-and-kojak-english-bulldog) - Fern Aracama: _“What I did was to fry suman to a crisp, made mango wasiwas, flambéed it, set it on top of the suman, and then I put ice cream.”_
 
