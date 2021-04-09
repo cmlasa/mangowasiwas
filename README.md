@@ -15,17 +15,17 @@ Servings: 1-2
 
 ### _Wasiwas_:
 
-½ cup    mango puree
+½ cup mango puree
 
-½ pc    mango, cubed
+½ pc mango, cubed
 
-¼ cup		orange juice
+¼ cup	orange juice
 
-½ cup		sugar
+½ cup	sugar
 
-1 tbsp		cornstarch, dissolved in 1 tbsp of water
+1 tbsp cornstarch, dissolved in 1 tbsp of water
 
-1 tbsp		rum, brandy or liquor of choice (80-proof/40% ABV) 
+1 tbsp rum, brandy or liquor of choice (80-proof/40% ABV) 
 
 ### Cream:
 
