@@ -14,7 +14,7 @@ Servings: 1-2
 * ½ cup mango puree
 * ½ pc mango, cubed
 * ¼ cup	orange juice
-* ½ cup	sugar
+* ¼ cup	sugar
 * 1 tbsp cornstarch, dissolved in 1 tbsp of water
 * 1 tbsp rum, brandy or liquor of choice (80-proof/40% ABV) 
 
