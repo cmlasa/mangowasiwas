@@ -1,8 +1,6 @@
 
-# Mango Wasiwas à la Aracama<sup>1</sup>
-
-
-### This recipe was made in loving memory of Lola Lisa (1933-2021)
+# Mango Wasiwas 
+### à la Aracama<sup>1</sup>
 
 #### _“...[the] dessert was based on a cutout recipe, called mango wasiwas<sup>2</sup>, that his mother kept. It was a flambé with mango, much like mango jubilee served with ice cream and barquillos...”_
 
