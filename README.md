@@ -24,11 +24,11 @@ Servings: 1-2
 
 #### Carb:
 
-* 1 serving	_barquillos_ (enough to lay the _wasiwas_ on top)
+* 1 serving	_[barquillos](https://en.wikipedia.org/wiki/Barquillo)_
 
 _OR_
 
-* 2 pcs		_suman_ (glutinous/sticky rice cake)
+* 2 pcs		_[suman](https://en.wikipedia.org/wiki/Suman_(food))_ (glutinous rice cake)
 * 2 tbsp		butter
 
 
