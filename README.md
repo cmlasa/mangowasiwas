@@ -59,7 +59,7 @@ _Wasiwas_ Instructions:
 <!-- Footnotes themselves at the bottom. -->
 ### Notes
 
-1: Source: [Only mention of “mango wasiwas” on the Internet (Philippine Star, 2017)](https://www.philstar.com/lifestyle/health-and-family/2017/03/07/1677186/whats-cooking-chef-fern-aracama-and-kojak-english-bulldog) - Fern Aracama: _“What I did was to fry suman to a crisp, made mango wasiwas, flambéed it, set it on top of the suman, and then I put ice cream.”_
+1: Source: [The only webpage that comes up when you Google “mango wasiwas” (Philippine Star, 2017)](https://www.philstar.com/lifestyle/health-and-family/2017/03/07/1677186/whats-cooking-chef-fern-aracama-and-kojak-english-bulldog) - Fern Aracama: _“What I did was to fry suman to a crisp, made mango wasiwas, flambéed it, set it on top of the suman, and then I put ice cream.”_
 
 2: The term, also spelled _oasiwas_, is used in the recipe to compare the act of flambéing the mangoes to the _wasiwas_ (swinging) movement in the [Pangasinan version](https://www.kaloobdance.com/Wasiwas.html) of the dance _[pandanggo sa ilaw](https://www.youtube.com/watch?v=Wu8XqO0knYg)_, where candles cradled in porous cloth are swung in a manner reminiscent of village folk vigorously waving lights along the beach to guide fishermen on their way back home to celebrate a good catch.
 
