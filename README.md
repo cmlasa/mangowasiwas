@@ -15,7 +15,7 @@ Servings: 1-2
 
 _Wasiwas_:
 
-½ cup 		mango puree
+½ cup   mango puree
 
 ½ pc		mango, cubed
 
