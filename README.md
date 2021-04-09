@@ -13,31 +13,25 @@ Servings: 1-2
 
 ### _Wasiwas_:
 
-½ cup mango puree
-
-½ pc mango, cubed
-
-¼ cup	orange juice
-
-½ cup	sugar
-
-1 tbsp cornstarch, dissolved in 1 tbsp of water
-
-1 tbsp rum, brandy or liquor of choice (80-proof/40% ABV) 
+* ½ cup mango puree
+* ½ pc mango, cubed
+* ¼ cup	orange juice
+* ½ cup	sugar
+* 1 tbsp cornstarch, dissolved in 1 tbsp of water
+* 1 tbsp rum, brandy or liquor of choice (80-proof/40% ABV) 
 
 ### Cream:
 
-1 scoop	ice cream (vanilla or flavor of choice)
+* 1 scoop	ice cream (vanilla or flavor of choice)
 
 ### Carb:
 
-1 serving	_barquillos_ (enough to lay the _wasiwas_ on top)
+* 1 serving	_barquillos_ (enough to lay the _wasiwas_ on top)
 
 _OR_
 
-2 pcs		_suman_ (glutinous/sticky rice cake)
-
-2 tbsp		butter
+* 2 pcs		_suman_ (glutinous/sticky rice cake)
+* 2 tbsp		butter
 
 
 # Instructions<sup>3</sup>
